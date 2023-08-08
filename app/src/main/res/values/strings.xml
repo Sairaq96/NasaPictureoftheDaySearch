@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nasa Picture of the Day Search</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="select_date_to_get_the_picture_of_the_day">\"Select Date\" to get the Picture of the Day</string>
+</resources>
